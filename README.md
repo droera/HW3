@@ -1,2 +1,2 @@
 # HW3
-5 tasks written in Java varying on different subjects.
+5 tasks written in Java varying on different subjects + an extra practice assingment.
